@@ -8,3 +8,4 @@ DATA/app.db
 DATA/users.txt
 .streamlit/secrets.toml
 practice/
+.venv/
